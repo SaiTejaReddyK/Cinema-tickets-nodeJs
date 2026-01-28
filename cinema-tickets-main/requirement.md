@@ -18,7 +18,7 @@ You will be assessed on:
 
 - Multiple tickets can be purchased at any given time.
 
-- Only a maximum of 20 tickets that can be purchased at a time.
+- Only a maximum of 25 tickets that can be purchased at a time.
 
 - Infants do not pay for a ticket and are not allocated a seat. They will be sitting on an Adult's lap.
 
@@ -27,8 +27,8 @@ You will be assessed on:
 |   Ticket Type    |     Price   |
 | ---------------- | ----------- |
 |    INFANT        |    £0       |
-|    CHILD         |    £10      |
-|    ADULT         |    £20      |
+|    CHILD         |    £15      |
+|    ADULT         |    £25     |
 
 - There is an existing `TicketPaymentService` responsible for taking payments.
 
